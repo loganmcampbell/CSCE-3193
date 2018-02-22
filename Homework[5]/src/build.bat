@@ -1,0 +1,12 @@
+javac Controller.java
+java Bank
+java Car
+java Controller
+java Engine
+java CopCar
+java GasTank
+java Model
+java RobberCar
+java Sprite
+java SpriteMover
+java View
